@@ -1,0 +1,14 @@
+#ifndef TRUECRACKCPP_SRC_MAIN_CORE_CRYPTO_ENCRYPTION_MODE_ENCRYPTION_MODE_CBC_H_
+#define TRUECRACKCPP_SRC_MAIN_CORE_CRYPTO_ENCRYPTION_MODE_ENCRYPTION_MODE_CBC_H_
+
+#include "../encryption_mode.h"
+
+namespace crypto {
+
+class EncryptionModeCBC: public EncryptionMode {
+
+};
+
+} // crypto
+
+#endif //TRUECRACKCPP_SRC_MAIN_CORE_CRYPTO_ENCRYPTION_MODE_ENCRYPTION_MODE_CBC_H_
